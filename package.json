@@ -1,0 +1,8 @@
+{
+    "name": "davidgolding/doctored",
+    "version": "1.0.0",
+    "description": "XML editor",
+    "license": "GNUPL",
+    "repository": "https://github.com/davidgolding/doctored",
+    "main": "doctored.js"
+}
