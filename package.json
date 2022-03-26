@@ -6,6 +6,6 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/davidgolding/doctored"
-    }
+    },
     "main": "doctored.js"
 }
