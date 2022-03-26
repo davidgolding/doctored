@@ -3,6 +3,9 @@
     "version": "1.0.0",
     "description": "XML editor",
     "license": "GNUPL",
-    "repository": "https://github.com/davidgolding/doctored",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/davidgolding/doctored"
+    }
     "main": "doctored.js"
 }
